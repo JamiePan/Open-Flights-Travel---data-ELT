@@ -1,7 +1,7 @@
 # OpenFlightsTravel-dataELT
 
-1. download "Code-Part.sql"
-2. Open --> File --> /locationofyourfile/yourfile.sql. 
+1. download "code-part.sql"
+2. Open --> File --> /locationofyourfile/code-part.sql. 
 
 
 
