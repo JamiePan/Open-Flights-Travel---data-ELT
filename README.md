@@ -52,10 +52,12 @@ What is the top 3 average ages of passengers traveling on business class from an
 ![report1](https://user-images.githubusercontent.com/44200835/65381162-13637f80-dd2f-11e9-8d53-b1ff8212b606.png)
 
 
+
 **- Report 2:
 What is the total number of newly joined gold membership for Adults passenger in each month?** 
 
 ![report2](https://user-images.githubusercontent.com/44200835/65381164-16f70680-dd2f-11e9-8964-91c255646771.png)
+
 
 
 **- Report 3:
@@ -67,6 +69,8 @@ Generate a flight report for different dimensions, which refers 'Number of Trans
 ![report3_explain](https://user-images.githubusercontent.com/44200835/65381258-e7e19480-dd30-11e9-8d2a-c9cfa06ba1cc.png)
 
 
+
+
 **- Report 4:
 What are the sub-total and total agent profits of airports and airlines? ('CUBE' operator)** 
 
@@ -76,6 +80,8 @@ What are the sub-total and total agent profits of airports and airlines? ('CUBE'
 ![report4_explain](https://user-images.githubusercontent.com/44200835/65381260-e87a2b00-dd30-11e9-9061-9580164de488.png)
 
 
+
+
 **- Report 5:
 What are the total and cumulative monthly total sales of Gold membership in 2009?** 
 
@@ -83,6 +89,8 @@ What are the total and cumulative monthly total sales of Gold membership in 2009
 
 **Query Trees & Execution Times:**
 ![report5_explain](https://user-images.githubusercontent.com/44200835/65381272-0e9fcb00-dd31-11e9-9c0e-9b93e73c8a8f.png)
+
+
 
 
 **- Report 6:
